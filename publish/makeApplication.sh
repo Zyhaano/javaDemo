@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by zhaogj on 20170815
+# Created by zhaoy on 20170815
 
 # 获取命令字符串
 CMD="$0"
